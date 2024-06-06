@@ -1,0 +1,41 @@
+.card-text {
+  margin-bottom: 1rem;
+  color: #e00f0f;
+}
+/* .card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+.hero-card {
+    width: 18rem;
+    margin: 1rem auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
+   
+  
+    .card-body {
+      padding: 1rem;
+  
+      .card-title {
+        font-size: 1.5rem;
+        font-weight: bold;
+      }
+  
+    
+  
+      .btn-primary {
+        background-color: #007bff;
+        border: none;
+        &:hover {
+          background-color: #0056b3;
+        }
+      }
+    }
+  }
+   */
+
+   .card-text1 {
+    margin-bottom: 1rem;
+    color: #0fe027;
+  }

@@ -1,0 +1,36 @@
+.customnavbar {
+  background-color: transparent;
+  padding: 20px;
+  opacity: 0.5; /* Adjust the opacity value as needed */
+}
+
+.custom-navbar .navbar-brand img {
+  margin-right: 20px;
+}
+
+.custom-nav-link {
+  color: rgb(241, 236, 236) !important;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.custom-nav-link:hover {
+  color: lightgray !important;
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.fa-shopping-cart {
+  font-size: 1.2em;
+}
+
+.customnavbar {
+  background-image: url('../images/1.png');
+  background-size: cover;
+  background-position: center;
+}
+
+
+  

@@ -1,0 +1,48 @@
+/* herosection.css */
+
+.carousel-item {
+  position: relative;
+  height: 100vh;
+  /* background: url('../../images/1.png') center center/cover no-repeat; */
+}
+
+.banner-text {
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.banner-text h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.banner-text p {
+  font-family: 'Arial', sans-serif;
+  font-size: 1.25rem;
+  margin: 1rem 0;
+}
+
+.home-button {
+  background-color: #5A3A1B; /* Brown color matching the button in the image */
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: white;
+}
+
+.home-button:hover {
+  background-color: #452d13; /* Darker brown for hover effect */
+}
+
+@media (max-width: 768px) {
+  .banner-text h1 {
+    font-size: 2rem;
+  }
+  
+  .banner-text p {
+    font-size: 1rem;
+  }
+}

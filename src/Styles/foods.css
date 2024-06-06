@@ -1,0 +1,28 @@
+.foods-section {
+    margin-top: 2rem;
+  }
+  
+  .food-card {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .food-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .food-card .card-title {
+    text-align: center;
+    margin-top: 0.5rem;
+    font-weight: bold;
+  }
+
+  .card-text {
+    margin-bottom: 1rem;
+    color: #e00f0f;
+  }
